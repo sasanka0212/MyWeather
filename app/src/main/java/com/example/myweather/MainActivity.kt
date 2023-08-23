@@ -15,7 +15,6 @@ import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
 
-// 9dd58a6e1b80c29b6634a2da15d6b52c
 
 class MainActivity : AppCompatActivity() {
     private val binding : ActivityMainBinding by lazy {
